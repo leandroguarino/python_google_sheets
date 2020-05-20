@@ -9,6 +9,9 @@ gspread: pacote necessário para uso da API do Google Sheets.
 csv: usado para facilitar a leitura de arquivos CSV.
 codecs: usado para ler um arquivo na codificação correta.
 
+## O diretório 'csv'
+Neste diretório, há exemplos de arquivo CSV que são lidos pelo script, para que você possa verificar como o código está executando.
+
 ## Antes de executar o script
 Para você conseguir manipular planilhas do Google Sheets, você precisa criar um projeto no [Google Developers Console] (https://console.developers.google.com/).
 Em seguida, você precisará Ativar a API do Google Drive e Google Sheets no projeto.
