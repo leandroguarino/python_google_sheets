@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "nth-teste-1234",
+    "private_key_id": "abc1233239ysadasjbdash31ahsbjhads",
+    "private_key": "-----BEGIN PRIVATE KEY-----\naqui vai sua chave\n-----END PRIVATE KEY-----\n",
+    "client_email": "google-sheets-com-python@seuprojeto.iam.gserviceaccount.com",
+    "client_id": "21321832173912832918",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets-com-python%40seuprojeto.iam.gserviceaccount.com"
+  }
+  
