@@ -19,4 +19,7 @@ Por fim, crie uma conta de serviço. Siga este [passo-a-passo](https://support.g
 No final do processo, você baixará um arquivo JSON.
 Salve esse arquivo no mesmo diretório do script **import.py**.
 
-O script está comentado linha-a-linha.
+## O arquivo exemplo_json_google.json
+É apenas um arquivo de exemplo para você conferir se baixou o JSON correto.
+
+O script **import.py** está comentado linha-a-linha.
